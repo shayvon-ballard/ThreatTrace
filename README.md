@@ -2,8 +2,8 @@
 A Python-based SIEM log analyzer that automatically detects security threats including brute force attacks, privilege escalation, suspicious IP activity, and root account abuse through automated detection rules and a real-time alert dashboard.
 
 ## Screenshots
-![Dashboard](screenshots/06_threattrace_dashboard.png)
-![Report](screenshots/08_threattrace_report.png)
+![Dashboard](screenshots/06_threattrace_dashboard.jpg)
+![Report](screenshots/08_threattrace_report.jpg)
 
 ## Features
 - Realistic authentication log generation for testing and demonstration
