@@ -3,7 +3,10 @@ A Python-based SIEM log analyzer that automatically detects security threats inc
 
 ## Screenshots
 ![Dashboard](screenshots/06_threattrace_dashboard.jpg)
+*ThreatTrace real-time threat detection dashboard displaying 94 security alerts across 4 threat categories with severity classification*
+
 ![Report](screenshots/08_threattrace_report.jpg)
+*ThreatTrace generating timestamped CSV threat intelligence report with 94 alerts across all severity levels*
 
 ## Features
 - Realistic authentication log generation for testing and demonstration
