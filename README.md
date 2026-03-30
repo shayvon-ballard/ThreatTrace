@@ -1,4 +1,6 @@
 # ThreatTrace ⚡
+![CI](https://github.com/shayvon-ballard/ThreatTrace/actions/workflows/test.yml/badge.svg)
+
 A Python-based SIEM log analyzer that automatically detects security threats including brute force attacks, privilege escalation, suspicious IP activity, and root account abuse through automated detection rules and a real-time alert dashboard.
 
 ## Screenshots
